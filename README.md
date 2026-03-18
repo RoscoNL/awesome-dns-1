@@ -48,6 +48,7 @@
 * [dog](https://github.com/ogham/dog)
 * [deSEC](https://desec.io/)
 * [The GNU Name System](https://www.gnunet.org/en/gns.html)
+* [IntoDNS.ai](https://intodns.ai) - AI-powered DNS & email security scanner. Checks SPF, DKIM, DMARC, DNSSEC, blacklists and provides actionable fixes.
 
 # Monitoring
 
